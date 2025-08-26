@@ -25,8 +25,7 @@ You bring the coffee, I’ll bring the visuals ☕📊
 📊 Power BI | DAX | Data Modeling
 🐍 Python (Pandas, Numpy, Matplotlib, Plotly)
 ☕ Java (oops)
-🗄️ SQL (MySQL, Microsoft SQL Server)
-☁️ Azure (Basics)
+🗄️ SQL (MySQL)
 📑 Excel & CSV/JSON APIs
 🎨 Canva | Figma (for design & presentation)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
